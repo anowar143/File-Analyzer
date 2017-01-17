@@ -1,4 +1,4 @@
-# File Analizer
+# File Analyzer
 A very simple python script that will read a text file and create another one based on the logics and data
 
 ## How to use
